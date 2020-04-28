@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+ #greencrayon {
+width: 52px;
+height: 410px;
+  position: absolute;
+  top: 325px;
+  left: 1663px;
+   cursor: pointer;
+}
+ #bluecrayon {
+width: 52px;
+height: 410px;
+  position: absolute;
+  top: 325px;
+  left: 1773px;
+   cursor: pointer;
+}
+ #pinkcrayon {
+width: 52px;
+height: 410px;
+  position: absolute;
+  top: 325px;
+  left: 1884px;
+   cursor: pointer;
+}
+
+ #orangecrayon {
+width: 52px;
+height: 410px;
+  position: absolute;
+  top: 325px;
+   left: 1996px;
+   cursor: pointer;
+}
